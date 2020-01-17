@@ -1,4 +1,4 @@
-package main.testingutils;
+package testingutils;
 
 class SimpleTestingCounter implements TestingTime {
     final Class<?> clazz;

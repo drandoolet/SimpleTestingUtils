@@ -1,4 +1,4 @@
-package main.testingutils;
+package testingutils;
 
 import java.util.Iterator;
 import java.util.SortedMap;

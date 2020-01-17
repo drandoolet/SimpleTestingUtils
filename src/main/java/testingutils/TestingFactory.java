@@ -1,4 +1,4 @@
-package main.testingutils;
+package testingutils;
 
 public final class TestingFactory {
     public static TestingTime getTestingCounter(Class<?> c) {

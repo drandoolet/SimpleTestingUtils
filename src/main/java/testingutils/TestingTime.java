@@ -1,4 +1,4 @@
-package main.testingutils;
+package testingutils;
 
 public interface TestingTime {
     void preheat();

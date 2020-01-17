@@ -1,8 +1,6 @@
-package test;
-
-import main.testingutils.MilestoneTestingTime;
-import main.testingutils.TestingFactory;
-import main.testingutils.TestingTime;
+import testingutils.MilestoneTestingTime;
+import testingutils.TestingFactory;
+import testingutils.TestingTime;
 
 import static java.lang.Thread.sleep;
 
